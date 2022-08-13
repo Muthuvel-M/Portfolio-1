@@ -50,7 +50,7 @@ img{
   display: block;
 }
 
-u1{
+ul{
   list-style: none;
 }
 
@@ -155,7 +155,7 @@ textarea{
   margin: auto;
 }
 
-.close-icon,
+.close-icon ,
 .theme-on{
   display: none;
 }
